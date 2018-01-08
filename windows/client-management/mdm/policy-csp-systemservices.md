@@ -25,7 +25,7 @@ ms.date: 01/03/2018
     <a href="#systemservices-configurehomegrouplistenerservicestartupmode">SystemServices/ConfigureHomeGroupListenerServiceStartupMode</a>
   </dd>
   <dd>
-    <a href="#systemservices-configurehomegroupproviderservicestartupmode">SystemServices/ConfigureHomeGroupProviderServiceStartupMode</a>
+t    <a href="#systemservices-configurehomegroupproviderservicestartupmode">SystemServices/ConfigureHomeGroupProviderServiceStartupMode</a>
   </dd>
   <dd>
     <a href="#systemservices-configurexboxaccessorymanagementservicestartupmode">SystemServices/ConfigureXboxAccessoryManagementServiceStartupMode</a>
@@ -78,7 +78,7 @@ ms.date: 01/03/2018
 
 <!--EndScope-->
 <!--StartDescription-->
-Added in Windows 10, next major update. This setting determines whether the service's start type is Automaic(2), Manual(3), Disabled(4). Default: Manual.
+Added in Windows 10, next major update. This setting determines whether the service's start type is Automatic(2), Manual(3), Disabled(4). Default: Manual.
 
 <!--EndDescription-->
 <!--SupportedValues-->
@@ -128,7 +128,7 @@ Added in Windows 10, next major update. This setting determines whether the serv
 
 <!--EndScope-->
 <!--StartDescription-->
-Added in Windows 10, next major update. This setting determines whether the service's start type is Automaic(2), Manual(3), Disabled(4). Default: Manual.
+Added in Windows 10, next major update. This setting determines whether the service's start type is Automatic(2), Manual(3), Disabled(4). Default: Manual.
 
 <!--EndDescription-->
 <!--SupportedValues-->
@@ -178,7 +178,7 @@ Added in Windows 10, next major update. This setting determines whether the serv
 
 <!--EndScope-->
 <!--StartDescription-->
-Added in Windows 10, next major update. This setting determines whether the service's start type is Automaic(2), Manual(3), Disabled(4). Default: Manual.
+Added in Windows 10, next major update. This setting determines whether the service's start type is Automatic(2), Manual(3), Disabled(4). Default: Manual.
 
 <!--EndDescription-->
 <!--SupportedValues-->
@@ -228,7 +228,7 @@ Added in Windows 10, next major update. This setting determines whether the serv
 
 <!--EndScope-->
 <!--StartDescription-->
-Added in Windows 10, next major update. This setting determines whether the service's start type is Automaic(2), Manual(3), Disabled(4). Default: Manual.
+Added in Windows 10, next major update. This setting determines whether the service's start type is Automatic(2), Manual(3), Disabled(4). Default: Manual.
 
 <!--EndDescription-->
 <!--SupportedValues-->
@@ -278,7 +278,7 @@ Added in Windows 10, next major update. This setting determines whether the serv
 
 <!--EndScope-->
 <!--StartDescription-->
-Added in Windows 10, next major update. This setting determines whether the service's start type is Automaic(2), Manual(3), Disabled(4). Default: Manual.
+Added in Windows 10, next major update. This setting determines whether the service's start type is Automatic(2), Manual(3), Disabled(4). Default: Manual.
 
 <!--EndDescription-->
 <!--SupportedValues-->
@@ -328,7 +328,7 @@ Added in Windows 10, next major update. This setting determines whether the serv
 
 <!--EndScope-->
 <!--StartDescription-->
-Added in Windows 10, next major update. This setting determines whether the service's start type is Automaic(2), Manual(3), Disabled(4). Default: Manual.
+Added in Windows 10, next major update. This setting determines whether the service's start type is Automatic(2), Manual(3), Disabled(4). Default: Manual.
 
 <!--EndDescription-->
 <!--SupportedValues-->
